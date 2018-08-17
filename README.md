@@ -2,6 +2,8 @@
 一些comsol仿真结果
 
 ## 001 同轴电缆
+https://github.com/lonelybag/Comsol_lonelybag/blob/master/01_models/001-coaxial_cable_circuit.mph
+
 电场 模值 时域 稳态
 ![image](https://github.com/lonelybag/Comsol_lonelybag/blob/master/02_results/001_Electric%20field.gif)
 
